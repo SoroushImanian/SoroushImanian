@@ -15,9 +15,12 @@ Let's connect and collaborate on exciting projects! Feel free to explore my repo
 #### My Projects
 - [**Long-way:** Loadbalance between two App with HAproxy And Nginx (Gitlab CI-CD)](https://github.com/SoroushImanian/Long-way)
   
-  * Robust Testing Suite: end-to-end (E2E), unit, and integration tests
-  * Runtime Changes
-  * Configuration Validation
+  * Technologies Used:
+      - HAProxy
+      - Nginx
+      - Docker Compose
+      - GitLab CI/CD
+      - Environment Variables
 
 
 ## My Technical Skills
@@ -26,5 +29,5 @@ Let's connect and collaborate on exciting projects! Feel free to explore my repo
 * CI/CD: **Gitlab CI/CD**
 * RDBMS & NoSQL: **MySQL**
 * Monitoring Solutions: **Prometheus**, **Grafana**
-* Configuration Management & IaC: **Helm**
+* IaC: **Helm**
 * Knowledge of Networking: **TCP/IP**, **CCNA**, **Network+**
