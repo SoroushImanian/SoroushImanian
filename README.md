@@ -30,4 +30,5 @@ Let's connect and collaborate on exciting projects! Feel free to explore my repo
 * RDBMS & NoSQL: **MySQL**
 * Monitoring Solutions: **Prometheus**, **Grafana**
 * IaC: **Helm**
-* Knowledge of Networking: **TCP/IP**, **CCNA**, **Network+**
+* Knowledge of Networking: **TCP/IP**, **CCNA**, **MCSA**, **Network+**
+* Web server & Load Balancer: **HAProxy**, **Nginx**
