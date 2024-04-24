@@ -27,8 +27,10 @@ Let's connect and collaborate on exciting projects! Feel free to explore my repo
 * Programming Languages & Scripting: **PHP**, **Python**, **Bash**
 * Container Orchestration: **Kubernetes**
 * CI/CD: **Gitlab CI/CD**
-* RDBMS & NoSQL: **MySQL**
+* RDBMS & NoSQL: **MySQL**, **Redis**
 * Monitoring Solutions: **Prometheus**, **Grafana**
 * IaC: **Helm**
+* Object Storage: **Minio**
+* Backup Solution: **Velero**
 * Knowledge of Networking: **TCP/IP**, **CCNA**, **MCSA**, **Network+**
 * Web server & Load Balancer: **HAProxy**, **Nginx**
