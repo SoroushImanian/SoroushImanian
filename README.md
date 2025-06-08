@@ -3,7 +3,7 @@
 DevOps Engineer with experience in infrastructure development and
  maintenance. Skilled in CI/CD automation, continuous monitoring, and
  managing deployments across extensive infrastructures. Proficient in
- Kubernetes , Linux , and Helm , with hands-on experience in scripting
+ Kubernetes , Linux , and Helm with hands-on experience in scripting
  with Bash . 
 
 Let's connect and collaborate on exciting projects! Feel free to explore my repositories and reach out for any queries or collaborations. 😊
