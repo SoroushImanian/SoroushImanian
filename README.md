@@ -1,8 +1,10 @@
 # Hi 👋, I'm Soroush Imanian
 
-I am a highly motivated DevOps Engineer, interest in solving challenges and learning in the DevOps
-field. Project quality and being on time are most important things to me. Also, creative production and
-solutions are what I'm looking for in developing and I'm trying to improve my skills for being better at it. 
+DevOps Engineer with experience in infrastructure development and
+ maintenance. Skilled in CI/CD automation, continuous monitoring, and
+ managing deployments across extensive infrastructures. Proficient in
+ Kubernetes , Linux , and Helm , with hands-on experience in scripting
+ with Bash . 
 
 Let's connect and collaborate on exciting projects! Feel free to explore my repositories and reach out for any queries or collaborations. 😊
 
