@@ -15,7 +15,7 @@ I'm a DevOps Engineer with strong hands-on experience in **Kubernetes**, **Ansib
 
 ### 🚀 My Projects
 
-* **Long-way:** Loadbalance between two App with HAproxy And Nginx (Gitlab CI-CD)
+* **[Long-way: Loadbalance between two App with HAproxy And Nginx (Gitlab CI-CD)](https://github.com/SoroushImanian/Long-way)**
     * **Technologies Used:**
         * HAProxy
         * Nginx
@@ -23,7 +23,7 @@ I'm a DevOps Engineer with strong hands-on experience in **Kubernetes**, **Ansib
         * GitLab CI/CD
         * Environment Variables
 
-* **ansible-playbook-autopress:** This project uses Ansible to fully automate a secure, high-availability WordPress deployment, featuring an Nginx load balancer, dual app servers, and a dedicated MariaDB database.
+* **[ansible-playbook-autopress: This project uses Ansible to fully automate a secure, high-availability WordPress deployment, featuring an Nginx load balancer, dual app servers, and a dedicated MariaDB database.](https://github.com/SoroushImanian/ansible-playbook-autopress)**
     * **Technologies Used:**
         * Ansible
         * Nginx
@@ -31,16 +31,16 @@ I'm a DevOps Engineer with strong hands-on experience in **Kubernetes**, **Ansib
         * Iptables
         * Fail2Ban
 
-* **BlackBird:** An all-in-one management script that automates the secure deployment of X-UI user configurations with an interactive wizard and on-disk credential encryption.
+* **[BlackBird: An all-in-one management script that automates the secure deployment of X-UI user configurations with an interactive wizard and on-disk credential encryption.](https://github.com/SoroushImanian/BlackBird)**
     * **Technologies Used:**
         * Bash Scripting
 
-* **BlackKnight:** An automated collector that scans Telegram channels for fresh VPN configs (V2Ray, WireGuard) and provides clean, ready-to-use subscription links.
+* **[BlackKnight: An automated collector that scans Telegram channels for fresh VPN configs (V2Ray, WireGuard) and provides clean, ready-to-use subscription links.](https://github.com/SoroushImanian/BlackKnight)**
     * **Technologies Used:**
         * Python
         * Bash
 
-* **HaveIT:** A high-performance Telegram bot that downloads YouTube videos as high-quality 320kbps MP3s, complete with embedded cover art, using yt-dlp.
+* **[HaveIT: A high-performance Telegram bot that downloads YouTube videos as high-quality 320kbps MP3s, complete with embedded cover art, using yt-dlp.](https://github.com/SoroushImanian/HaveIT)**
     * **Technologies Used:**
         * Python
         * yt-dlp
