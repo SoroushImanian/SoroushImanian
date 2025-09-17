@@ -5,12 +5,8 @@
     DevOps Engineer with strong hands-on experience in <strong>Kubernetes</strong>, <strong>Ansible</strong>, and <strong>GitLab CI/CD</strong>. Skilled in automating high-availability systems, implementing <strong>GitOps</strong> with ArgoCD, and setting up monitoring and logging pipelines.
   </p>
   <div align="center">
-    <a href="https://linkedin.com/in/soroush-imanian" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="mailto:soroushimanian@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-    </a>
+   <a href="https://linkedin.com/in/soroush-imanian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soroush-imanian" height="30" width="40" /></a>
+   <a href="https://github.com/SoroushImanian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="SoroushImanian" height="30" width="40" /></a>
   </div>
 </div>
 
@@ -70,14 +66,3 @@
 | **vps-optimizer** | *Coming Soon...* |
 
 ---
-
-### 📊 My GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SoroushImanian&theme=tokyonight&show_icons=true" />
-  </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoroushImanian&layout=compact&theme=tokyonight" />
-  </a>
-</p>
