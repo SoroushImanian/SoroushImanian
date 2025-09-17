@@ -1,68 +1,81 @@
-<div id="header" align="center">
-  <h1>Hi there 👋, I'm Soroush</h1>
-  <h3>A DevOps Engineer passionate about automation and cloud-native technologies.</h3>
-  <p>
-    DevOps Engineer with strong hands-on experience in <strong>Kubernetes</strong>, <strong>Ansible</strong>, and <strong>GitLab CI/CD</strong>. Skilled in automating high-availability systems, implementing <strong>GitOps</strong> with ArgoCD, and setting up monitoring and logging pipelines.
-  </p>
-  <div align="center">
-   <a href="https://linkedin.com/in/soroush-imanian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soroush-imanian" height="30" width="40" /></a>
-   <a href="https://github.com/SoroushImanian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="SoroushImanian" height="30" width="40" /></a>
-  </div>
-</div>
+# Soroush Imanian | DevOps Engineer
 
----
-
-### 🛠️ My Tech Stack
-
-#### Containerization & Orchestration:
-<p>
-  <a href="#"><img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"></a>
-  <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>
-  <a href="#"><img alt="Helm" src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white"></a>
-</p>
-
-#### CI/CD & Automation:
-<p>
-  <a href="#"><img alt="GitLab CI/CD" src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"></a>
-  <a href="#"><img alt="Ansible" src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white"></a>
-  <a href="#"><img alt="ArgoCD" src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"></a>
-  <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"></a>
-</p>
-
-#### Monitoring & Logging:
-<p>
-  <a href="#"><img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"></a>
-  <a href="#"><img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white"></a>
-  <a href="#"><img alt="Fluentd" src="https://img.shields.io/badge/Fluentd-0073B7?style=for-the-badge&logo=fluentd&logoColor=white"></a>
-</p>
-
-#### Databases & Caching:
-<p>
-  <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"></a>
-  <a href="#"><img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"></a>
-  <a href="#"><img alt="MinIO" src="https://img.shields.io/badge/MinIO-C72C3A?style=for-the-badge&logo=minio&logoColor=white"></a>
-</p>
-
-#### Web Servers, Networking & Other Tools:
-<p>
-  <a href="#"><img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"></a>
-  <a href="#"><img alt="HAProxy" src="https://img.shields.io/badge/HAProxy-000000?style=for-the-badge&logo=haproxy&logoColor=white"></a>
-  <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"></a>
-  <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
-  <a href="#"><img alt="Velero" src="https://img.shields.io/badge/Velero-5928D1?style=for-the-badge&logo=velero&logoColor=white"></a>
+<p align="left">
+  <a href="https://linkedin.com/in/soroush-imanian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="soroush-imanian" height="30" width="40" /></a>
+  <a href="https://github.com/SoroushImanian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="SoroushImanian" height="30" width="40" /></a>
 </p>
 
 ---
 
-### 🚀 My Projects
+### Hi there 👋, I'm Soroush
 
-| Project                                                      | Description                                                     |
-| ------------------------------------------------------------ | --------------------------------------------------------------- |
-| **[Long-way](https://github.com/SoroushImanian/Long-way)** | Automated HAProxy & Nginx load balancing via GitLab CI/CD.      |
-| **[ansible-playbook-autopress](https://github.com/SoroushImanian/ansible-playbook-autopress)** | Fully automated, high-availability WordPress deployment with Ansible. |
-| **[BlackBird](https://github.com/SoroushImanian/BlackBird)** | A secure management script for X-UI configurations.             |
-| **[BlackKnight](https://github.com/SoroushImanian/BlackKnight)** | Automated collector for fresh VPN configs from Telegram.        |
-| **[HaveIT](https://github.com/SoroushImanian/HaveIT)** | A Telegram bot to download YouTube videos as high-quality MP3s. |
-| **vps-optimizer** | *Coming Soon...* |
+I'm a DevOps Engineer with strong hands-on experience in **Kubernetes**, **Ansible**, and **GitLab CI/CD**. Skilled in automating high-availability systems, implementing **GitOps** with ArgoCD, and setting up monitoring and logging pipelines.
 
 ---
+
+---
+### My Projects
+
+* **Long-way**
+    <br>
+    A project for load balancing between two applications using HAProxy and Nginx, automated with GitLab CI-CD.
+    * **Technologies:** `HAProxy`, `Nginx`, `Docker Compose`, `GitLab CI/CD`
+
+* **ansible-playbook-autopress**
+    <br>
+    Using Ansible to fully automate a secure, high-availability WordPress deployment with Nginx, dual app servers, and a MariaDB database.
+    * **Technologies:** `Ansible`, `Nginx`, `MariaDB`, `Iptables`, `Fail2Ban`
+
+* **BlackBird**
+    <br>
+    An all-in-one management script for the secure deployment of X-UI configurations, featuring an interactive wizard and credential encryption.
+    * **Technologies:** `Bash Scripting`
+
+* **BlackKnight**
+    <br>
+    An automated collector for fresh VPN configs (like V2Ray and WireGuard) from Telegram channels, providing ready-to-use links.
+    * **Technologies:** `Python`, `Bash`
+
+* **HaveIT**
+    <br>
+    A high-performance Telegram bot to download YouTube videos as high-quality MP3 files.
+    * **Technologies:** `Python`, `yt-dlp`
+
+* **vps-optimizer**
+    <br>
+    (Coming Soon)
+
+---
+### My Technical Skills
+
+* **Containerization & Orchestration**
+    <br>
+    Kubernetes (Multi-Master Cluster, Kubeadm, RBAC), Helm, ArgoCD (GitOps), Docker (Kaniko)
+
+* **Infrastructure as Code (IaC) & Automation**
+    <br>
+    Ansible (Playbook Authoring), Bash Scripting
+
+* **CI/CD**
+    <br>
+    GitLab CI/CD (Pipeline Automation)
+
+* **Monitoring, Logging & Alerting**
+    <br>
+    Prometheus, Grafana, Fluent Bit, Elasticsearch, Alertmanager
+
+* **Databases & Caching**
+    <br>
+    MariaDB, MySQL, Elasticsearch, Redis
+
+* **Web Servers & Load Balancing**
+    <br>
+    Nginx, HAProxy
+
+* **Networking & Security**
+    <br>
+    TCP/IP, DNS, NAT, DHCP, VPNs, CCNA, MCSA, Network+, Iptables, Fail2Ban
+
+* **Other Tools**
+    <br>
+    Nexus, Git, Velero, Minio
